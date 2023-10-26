@@ -3,6 +3,7 @@
     font-size: 24px; 
     font-weight: bold; 
     line-height: 1.5;
+    width: 50px;
 }
 
 .img-carousel{
@@ -12,18 +13,14 @@
   
 }
 
-
 h2{
     font-size: 54px;
     color: #303030;
     font-weight: 600;
 }
 
-
-
-
 .carousel-caption {
-    background-color: rgba(255, 255, 255, 0.07); 
+    background-color: rgba(195, 0, 255, 0.281); 
     padding: 10px; 
     border-radius: 10px; 
     text-align: center; 
@@ -75,7 +72,7 @@ h2{
 }
 
 .card-body {
-    background: #e673e6;
+    background: rgba(111, 0, 255, 0.445);;
     padding: 5px;
     text-align: center; 
 }
