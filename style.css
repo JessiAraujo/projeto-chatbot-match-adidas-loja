@@ -35,16 +35,22 @@ h2 {
     color: white; 
     
 }
+
 .col-md-4 {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
-
 
 .team-member  {
     width: 200px; 
     height: 200px; 
     object-fit: cover;
+}
+
+.linkdin-icon {
+    background-color: #ffffff;
+    border-radius: 10px;
+    font-size: 26px;
 }
 
 .text-produtos{
@@ -75,6 +81,21 @@ h2 {
     background: rgba(111, 0, 255, 0.445);;
     padding: 5px;
     text-align: center; 
+}
+
+@media  (max-width: 769px) {
+
+    .img-carousel {
+        height: 350px;
+    }
+
+    .carousel-caption h5 {
+        font-size: 20px;
+    }
+
+    .carousel-caption {
+        bottom: 40px;
+    }
 }
 
 
