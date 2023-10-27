@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .navbar-brand {
     font-size: 24px; 
     font-weight: bold; 
@@ -39,7 +43,15 @@ h2 {
 .carousel-caption h5 {
     font-size: 30px; 
     color: white; 
-    
+}
+
+.lead p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.lead b {
+    font-weight: bold;
 }
 
 #nosso-time {
