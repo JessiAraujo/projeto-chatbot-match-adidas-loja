@@ -53,6 +53,19 @@ h2 {
     object-fit: cover;
 }
 
+.mt-3 {
+    font-weight: 700;
+}
+
+.col-md-4 {
+    padding: 10px;
+}
+
+.col-md-4 p{
+    color: rgba(111, 0, 255, 0.445);
+    font-weight: bold;
+}
+
 .linkdin-icon {
     background-color: #ffffff;
     border-radius: 10px;
