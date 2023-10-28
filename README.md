@@ -9,4 +9,4 @@ Na seção "Quem Somos", elaborei um texto e escolhi algumas imagens para aprese
 
 Finalizei o projeto com um rodapé que incluiu informações de contato, endereço e links para as redes sociais da empresa. O resultado é uma vitrine virtual que combina funcionalidade e design atraente, proporcionando aos visitantes uma experiência envolvente.
 
-https://jessiaraujo.github.io/Projeto-woman-on-the-move/
+https://jessiaraujo.github.io/projeto-chatbot-match-adidas-loja/
