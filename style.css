@@ -74,7 +74,7 @@ h2 {
 }
 
 .col-md-4 p{
-    color: rgba(111, 0, 255, 0.445);
+    color: rgba(38, 0, 255, 0.404);
     font-weight: bold;
 }
 
@@ -84,7 +84,11 @@ h2 {
     font-size: 26px;
 }
 
-.text-produtos{
+.linkdin-icon:hover {
+    background-color: #04dcf8;
+}
+
+.text-produtos {
     font-size: 24px; 
     font-weight: bold; 
     line-height: 1.5;
@@ -104,14 +108,21 @@ h2 {
     transition: transform 0.3s;
 }
 
-.card:hover .card-img-top {
+.card-img-top:hover {
     transform: scale(1.1);
+    cursor: pointer;
 }
 
 .card-body {
-    background: rgba(111, 0, 255, 0.445);;
-    padding: 5px;
+    background: rgba(38, 0, 255, 0.404);
+    padding: 30px;
     text-align: center; 
+}
+
+.btn-warning:hover {
+    background-color: #000000c2;
+    transition: 0.4s ease-in-out;
+    color: #ffae00;
 }
 
 @media  (max-width: 769px) {
