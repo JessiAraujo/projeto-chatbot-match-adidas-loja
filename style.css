@@ -74,18 +74,16 @@ h2 {
 }
 
 .col-md-4 p{
-    color: rgba(38, 0, 255, 0.404);
     font-weight: bold;
 }
 
 .linkdin-icon {
-    background-color: #ffffff;
     border-radius: 10px;
     font-size: 26px;
 }
 
 .linkdin-icon:hover {
-    background-color: #04dcf8;
+    background-color: #ffffff;
 }
 
 .text-produtos {
@@ -123,6 +121,26 @@ h2 {
     background-color: #000000c2;
     transition: 0.4s ease-in-out;
     color: #ffae00;
+}
+
+.social-links a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.social-links svg {
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.social-links svg:hover {
+    background-color: #ffffff;
+}
+
+.social-links p {
+    margin-top: 100px;
+    font-weight: 100;
+    font-size: 12px;
 }
 
 @media  (max-width: 769px) {
