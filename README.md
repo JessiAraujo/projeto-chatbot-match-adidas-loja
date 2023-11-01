@@ -64,7 +64,7 @@ O Chatbot da adidasbot ainda só é capaz de utilizar de um formato FAQ onde se 
   
 ## :balance_scale: Licença
 
-Este projeto é de código aberto e está sob a licença Licença exclusiva. Você é livre para usar, modificar e distribuir este projeto de acordo com os termos da licença.
+Este projeto é de código aberto e está sob a licença exclusiva. Você é livre para usar, modificar e distribuir este projeto de acordo com os termos da licença.
 
 ## :man_technologist: Autores
 
