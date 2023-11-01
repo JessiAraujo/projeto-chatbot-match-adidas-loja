@@ -20,7 +20,7 @@
 
 <br>
 
-<img alt="Layout" src="./assets/img-project.png">
+<img alt="Layout" src="./img/video_demo_projeto.gif">
 <br>
 
 ## :house: Sobre o Projeto
