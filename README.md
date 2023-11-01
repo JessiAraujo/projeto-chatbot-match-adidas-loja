@@ -37,7 +37,7 @@ O projeto possui as seguintes funcionalidades:
 
 2. Integração com chat ao vivo para suporte humano quando necessário.
 
-3. Acessibilidade em Libras, o usuário pode traduzir todo o conteudo do site nem Língua Brasileira de Sinais
+3. Acessibilidade em Libras, o usuário pode traduzir todo o conteúdo do site em Língua Brasileira de Sinais.
 
 ## :man_shrugging: Como Funciona
 
